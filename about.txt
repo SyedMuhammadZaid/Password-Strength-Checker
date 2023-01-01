@@ -1,0 +1,3 @@
+It tells you either your password is weak or medium or strong.
+It only allows you to enter your password either in the range of [48-57] ASCII or Alphabets ASCII code.
+If you enter any other character it will generate an alert on loop again and again.
